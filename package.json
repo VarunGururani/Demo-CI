@@ -1,13 +1,12 @@
 {
-  "name": "ci-demo",
+  "name": "node-ci-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic Node.js CI example using GitHub Actions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "author": "alokmisra",
+  "license": "ISC"
 }
